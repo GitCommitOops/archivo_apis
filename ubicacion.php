@@ -8,8 +8,8 @@ un mensaje de error en formato JSON.
 
 $host = "localhost";
 $dbname = "asistapp";
-$user = "root";
-$pass = "";
+$user = "ivanportador";
+$pass = "Mintario153";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);

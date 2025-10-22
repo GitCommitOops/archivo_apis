@@ -2,8 +2,8 @@
 header('Content-Type: application/json');
 $host = 'localhost';
 $db = 'asistapp';
-$user = 'root';
-$pass = '';
+$user = 'ivanportador';
+$pass = 'Mintario153';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

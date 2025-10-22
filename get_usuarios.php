@@ -7,8 +7,8 @@ También maneja errores de conexión a la base de datos.
 
 // Configuración de la base de datos
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "ivanportador";
+$password = "Mintario153";
 $dbname = "asistapp";// Nombre de tu base de datos
 
 // Crea la conexión

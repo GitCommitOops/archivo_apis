@@ -12,8 +12,8 @@ ini_set('display_errors', 1);
 
 // Conexión
 $servername = "localhost";
-$dbusername = "root";
-$dbpassword = "";
+$dbusername = "ivanportador";
+$dbpassword = "Mintario153";
 $dbname = "asistapp";
 $conn = new mysqli($servername, $dbusername, $dbpassword, $dbname);
 

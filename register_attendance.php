@@ -2,8 +2,8 @@
 // --- Conexión a la base de datos ---
 $host = 'localhost';
 $db = 'asistapp';
-$user = 'root';
-$pass = '';
+$user = 'ivanportador';
+$pass = 'Mintario153';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

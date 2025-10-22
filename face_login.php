@@ -3,7 +3,7 @@ header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: POST");
 
-$conn = new mysqli("localhost", "root", "", "asistapp");
+$conn = new mysqli("localhost", "ivanportador", "Mintario153", "asistapp");
 if ($conn->connect_error) {
     die(json_encode(["success" => false, "message" => "Error de conexión"]));
 }

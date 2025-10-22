@@ -11,8 +11,8 @@ de error en formato JSON.
     ini_set('display_errors', 1);
 
     $servername = "localhost";
-    $username = "root";
-    $password = "";
+    $username = "ivanportador";
+    $password = "Mintario153";
     $dbname = "asistapp";
 
     try {

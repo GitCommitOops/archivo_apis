@@ -12,8 +12,8 @@ ini_set('display_errors', 1);
 
 // Configuración de conexión a la base de datos
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "ivanportador";
+$password = "Mintario153";
 $dbname = "asistapp";
 
 // Crear conexión
